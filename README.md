@@ -1,6 +1,6 @@
 # ASL-Translator
+https://devpost.com/software/speechless-accessibility-inclusive-call
 NewHacks 2020
-[https://devpost.com/software/speechless-accessibility-inclusive-call]
 ### CNN Model Requirements
 - Python 3.x
 - Tensorflow 1.5
